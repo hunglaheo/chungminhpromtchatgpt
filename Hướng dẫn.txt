@@ -1,0 +1,5 @@
+Phải cài thư viện hỗ trợ trước khi dùng.
+Để dùng chat GPT thì cài thư viện sau
+pip install openai
+Để dùng selenium thì cài thư viện sau
+pip install selenium
