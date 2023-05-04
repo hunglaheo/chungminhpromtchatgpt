@@ -2,7 +2,7 @@ import openai
 import time
 import os
 import json
-openai.api_key="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"
+openai.api_key="api_key_here"
 def hoiGPT(cauhoi,tenfile):
     answer = openai.ChatCompletion.create(
     model="gpt-3.5-turbo",
